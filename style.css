@@ -39,6 +39,7 @@ main{
     gap: 4px;
 }
 button{
+    cursor: pointer;
     margin: 4px;
     margin-left: 10px;
     background-color: hsl(0, 0%, 20%);
